@@ -1,4 +1,4 @@
 # HelloWorld
 My first GitHub Project
 hahahaha!
-This is my fisrt GitHua Project!
+This is my first GitHua Project!
